@@ -3,7 +3,7 @@
 [Site](https://areciocodes.com/) :godmode:
 <!--**Arecio3/Arecio3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<a href="https://app.daily.dev/Arecio3"><img src="https://api.daily.dev/devcards/d4df957857aa4640bcffbbfb323bcedf.png?r=sjo" width="400" alt="Arecio Canton's Dev Card"/></a>
+<a href="https://app.daily.dev/Arecio3"><img src="https://api.daily.dev/devcards/d4df957857aa4640bcffbbfb323bcedf.png?r=ksg" width="400" alt="Arecio Canton's Dev Card"/></a>
 
 - 🌱 I’m currently learning Python! :snake:
 - :mortar_board: UCF Fullstack Bootcamp Graduate:yellow_heart:
